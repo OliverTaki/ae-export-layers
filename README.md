@@ -8,7 +8,7 @@ Typical use: a stop-motion or 2D compositing shot where every layer must be
 delivered (or archived) as a separate render, together with a note of each
 layer's blend mode and opacity so the comp can be rebuilt elsewhere.
 
-Free, MIT-licensed, maintained by the [Stop Motion Database](https://stop-motion-database.pages.dev/).
+Free, MIT-licensed, maintained by the [Stop Motion Database](https://stopmotiondatabase.com/).
 
 ## The scripts
 
